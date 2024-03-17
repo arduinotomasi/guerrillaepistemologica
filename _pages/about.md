@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify;">
+<div style="text-align: justify; text-indent: 40px;">
 
 <br>
 
-<div style="background-color: rgb(221, 221, 221); padding: 20px; font-size: 12px; text-indent: 40px;">
+<div style="background-color: rgb(221, 221, 221); padding: 20px; font-size: 13px;">
 
 <div style="text-align: center; ">
 
