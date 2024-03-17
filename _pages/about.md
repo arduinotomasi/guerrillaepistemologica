@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify; ">
 
 <br>
 
@@ -18,7 +19,7 @@ redirect_from:
 
 </div>
 
-<div style="text-align: justify; text-indent: 30px; ">
+<div style="text-align: justify; text-indent:30px; ">
 
 <br>Al fin los chiquillos de la Universidad tuvieron una idea genial.
 Antes de ir a clase hicieron, una mañana azul, abundante provisión de pistolas, de tal manera que para cada chiquillo había una pistola. Y cada chiquillo se guardó su pistola.<br>
@@ -40,11 +41,11 @@ Y el Profesor sacó los ojos el tanto de un jeme y los metió y los sacó.<br>
 
 <br>Cayeron heroicamente, como deben caer los hombres. Y el Profesor sabio, dejando de hacer gestos, se puso a buscar a gatas por la clase las palabras inútilmente perdidas.<br>
 
-</div>
+
 
 </div><br>
 
-
+</div>
 
 <div style="text-align: right;">
 
