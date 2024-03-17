@@ -11,15 +11,17 @@ redirect_from:
 
 <br>
 
-<div style="background-color: rgb(221, 221, 221); padding: 14px;">
+<div style="background-color: rgb(221, 221, 221); padding: 20px; font-size: 12px; ">
 
-<div style="text-align: center;">
+<div style="text-align: center; ">
 
 <strong> 10 </strong>
 
 </div>
 
-Al fin los chiquillos de la Universidad tuvieron una idea genial.
+<p style="text-indent: 40px;">
+
+<br>Al fin los chiquillos de la Universidad tuvieron una idea genial.
 Antes de ir a clase hicieron, una mañana azul, abundante provisión de pistolas, de tal manera que para cada chiquillo había una pistola. Y cada chiquillo se guardó su pistola.<br>
 
 <br>Entonces se abrió la clase y todos tomaron el sitio de cada día. Sobre su sillón de cuero, el Profesor sabio hacía gestos y hablaba, hablaba y hacía gestos; pero sus palabras, apenas salidas de los labios, se le caían en la punta de los zapatos: era que no podían avanzar porque la clase estaba llena con el coraje de los chiquillos, cuyos corazones hacían bum, bum; bum, bum.<br>
@@ -38,6 +40,8 @@ Y el Profesor sacó los ojos el tanto de un jeme y los metió y los sacó.<br>
 <br>¡Pum!<br>
 
 <br>Cayeron heroicamente, como deben caer los hombres. Y el Profesor sabio, dejando de hacer gestos, se puso a buscar a gatas por la clase las palabras inútilmente perdidas.<br>
+
+</p>
 
 </div><br>
 
