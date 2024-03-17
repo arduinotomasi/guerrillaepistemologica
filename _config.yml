@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Arduino Tomasi"
+name                     : &name "Guerrilla Epistemológica"
 description              : &description "personal description"
 url                      : https://arduinotomasi.github.io/guerrillaepistemologica # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arduino Tomasi"
-  avatar           : "photo.png"
+  name             : "Guerrilla Epistemológica"
+  avatar           : "palacio.jpg"
   bio              : ""
   location         : 
   employer         :
