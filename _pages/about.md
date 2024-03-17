@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="text-align: justify; ">
 
-<br>
+
 
 <div style="background-color: rgb(221, 221, 221); padding: 20px; font-size: 16px; ">
 
@@ -19,7 +19,7 @@ redirect_from:
 
 </div>
 
-<div style="text-align: justify; text-indent:30px; ">
+<div style="text-align: justify; ">
 
 <br>Al fin los chiquillos de la Universidad tuvieron una idea genial.
 Antes de ir a clase hicieron, una mañana azul, abundante provisión de pistolas, de tal manera que para cada chiquillo había una pistola. Y cada chiquillo se guardó su pistola.<br>
@@ -43,9 +43,9 @@ Y el Profesor sacó los ojos el tanto de un jeme y los metió y los sacó.<br>
 
 
 
-</div><br>
-
 </div>
+
+</div><br>
 
 <div style="text-align: right;">
 
