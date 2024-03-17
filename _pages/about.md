@@ -11,7 +11,7 @@ redirect_from:
 
 <br>
 
-<div style="background-color: rgb(221, 221, 221); padding: 20px; font-size: 15px;">
+<div style="background-color: rgb(221, 221, 221); padding: 20px; font-size: 16px;">
 
 <div style="text-align: center; ">
 
