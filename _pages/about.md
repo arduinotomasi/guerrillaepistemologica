@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify; ">
 
 <br>
 
@@ -45,7 +44,7 @@ Y el Profesor sacó los ojos el tanto de un jeme y los metió y los sacó.<br>
 
 </div><br>
 
-</div>
+
 
 <div style="text-align: right;">
 
